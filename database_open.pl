@@ -1,7 +1,6 @@
 #!/usr/local/bin/perl -w
 
-# Description : This is the program to analyze the alert log
-#               file and print out diagnostics.
+# Description : This is the program to analyze the alert log file and print out diagnostics.
 # Developer   : Manoj Murumkar
 # Date        : 5/29/2001
 

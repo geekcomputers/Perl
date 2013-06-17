@@ -1,17 +1,14 @@
 #!/usr/local/bin/perl
 
-# Script Name   : ascii.pl
+# Script Name		: ascii.pl
+# Author				: Craig Richards
+# Created				: 17th December 2007
+# Last Modified		: 
+# Version				: 1.0
 
-# Author        : Craig Richards
-# Created       : 17th December 2007
+# Modifications		: 
 
-# Version       : 1.0
-
-# Modifications :
-
-# Description   : Print the ASCII chart
-
-# Instructions  :
+# Description			: Print the ASCII chart
 
 print "A # has ASCII value ", ord("#"), "\n";
 print "A * has ASCII value ", ord("*"), "\n";
